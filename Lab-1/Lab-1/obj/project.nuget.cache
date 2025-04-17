@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/wpx6xgf9bEW3B2yAK3iGl2hkLw/NTQjPREB78ILPvJUp1u80uYpepcQgELM48sTQygOu8mIf3YJUGpABQJvyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vadim\\Desktop\\Курс\\3 куср 2 семестр\\МОСУ\\Lab-1\\Lab-1\\Lab-1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vadim\\.nuget\\packages\\winforms.datavisualization\\1.10.0\\winforms.datavisualization.1.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
